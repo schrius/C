@@ -1,0 +1,6 @@
+./testsim 2 10
+./testsimf 3 10
+./testsim 3 15
+./testsimf 3 10
+./testsim 3 15
+./testsim 1 10
